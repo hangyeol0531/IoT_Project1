@@ -7,3 +7,7 @@
 
 ### C#.Net WinForm 클라이언트 창
 <img width="960" alt="스크린샷 2020-11-03 오후 3 59 46" src="https://user-images.githubusercontent.com/41174265/97957163-d00e8800-1ded-11eb-9570-4a3827c1b5b9.png">
+
+### 시연 영상
+잘 보이지는 않지만 윈폼에서 클릭하면 보드에 있는 LED가 제어된다.
+![시연 압축](https://user-images.githubusercontent.com/41174265/97989911-8ee49b00-1e22-11eb-83a7-44d294c64ac2.gif)
