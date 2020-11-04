@@ -24,14 +24,14 @@ while True:
     # 수신받은 문자열을 출력합니다.
     print('Received from', addr, data.decode())
 
-    if(data == 'red_on') ser.write(b'1')
-    elif (data == 'red_on') ser.write(b'2')
-    else if(data == 'blue_on') ser.write(b'3');
-    else if(data == 'blue_off') ser.write(b'4');
-    else if(data == 'green_on') ser.write(b'5');
-    else if(data == 'green_off') ser.write(b'6');
-    else if(data == 'all_on') ser.write(b'7');
-    else if(data == 'all_off') ser.write(b'8');
+    if data == 'red_on' ser.write(b'1')
+    elif data == 'red_on' ser.write(b'2')
+    elif data == 'blue_on' ser.write(b'3');
+    elif data == 'blue_off' ser.write(b'4');
+    elif data == 'green_on' ser.write(b'5');
+    elif data == 'green_off' ser.write(b'6');
+    elif data == 'all_on' ser.write(b'7');
+    elif data == 'all_off' ser.write(b'8');
     # 받은 문자열을 다시 클라이언트로 전송해줍니다.(에코) 
     #client_socket.sendall(data)
 # 소켓을 닫습니다.
