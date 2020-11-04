@@ -1,0 +1,10 @@
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\bin\Debug\Socket_Winform.exe.config
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\bin\Debug\Socket_Winform.exe
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\bin\Debug\Socket_Winform.pdb
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.csprojAssemblyReference.cache
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.Form1.resources
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.Properties.Resources.resources
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.csproj.GenerateResource.cache
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.csproj.CoreCompileInputs.cache
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.exe
+C:\github_repo\Socket_Winform\Socket_Winform\Socket_Winform\obj\Debug\Socket_Winform.pdb
